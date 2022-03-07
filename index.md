@@ -1,4 +1,4 @@
 ---
-title: 👋 Hello there, Welcome to Savile Cow
+title: Welcome to Savile Cow
 ---
 
