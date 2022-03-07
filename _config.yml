@@ -1,18 +1,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Joan's Work
+title: Savile Cow
 
 # Your name to show in the footer
-author: Joan S Pons
+author: Savile Cow
 remove-ads: true
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Experience: "experience"
-  Blog: "https://blog.joans.work"
-  Download CV: "https://github.com/uh-joan/uh-joan.github.io/raw/main/joan_CV.pdf"
+  Wallet: ""
+#  Blog: "https://blog.joans.work"
 #  Resources:
 #    - Prototypes: "list"
 #    - Use cases: "usecases"
@@ -36,20 +35,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "janisaez@gmail.com"
-  github: uh-joan
-  twitter: joans_ux
+  # email: "janisaez@gmail.com"
+  github: savilecow
+  twitter: savilecow
 #  patreon: 
 #  youtube: 
 #  medium: 
 #  reddit: 
-  linkedin: joanspon
 #  xing: yourname
 #  stackoverflow: "3"
 #  snapchat: 
 #  instagram: 
 #  spotify: 
-  telephone: +44(0)7955858749
 #  steam: 
 #  twitch: 
 #  yelp: 
@@ -57,7 +54,6 @@ social-network-links:
 #  calendly: 
 #  mastodon: 
 #  ORCID: 
-  google-scholar: citations?user=pQxNXVsAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -73,11 +69,11 @@ share-links-active:
 # Select which links to show in the footer
 footer-links-active:
   github: true
-  email: true
+  email: false
   twitter: true
-  google-scholar: true
-  telephone: true
-  linkedin: true
+  google-scholar: false
+  telephone: false
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -96,21 +92,21 @@ footer-links-active:
 # post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "savile, cow, savile cow, merch, nft"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#242526"
-navbar-text-col: "#e4e6eb"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#000000"
 navbar-border-col: "#393a3b"
 page-col: "#18191a"
-text-col: "#e4e6eb"
+text-col: "#000000"
 link-col: "#139ee0"
 hover-col: "#28a9e6"
-footer-col: "#242526"
-footer-text-col: "#e4e6eb"
+footer-col: "#FFFFFF"
+footer-text-col: "#000000"
 footer-link-col: "#139ee0"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -137,7 +133,7 @@ footer-link-col: "#139ee0"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "287790531"
+# google_analytics: "287790531"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
