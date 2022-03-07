@@ -1,10 +1,5 @@
 # --- Required options --- #
 
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-
 title: Savile Cow
 author: Savile Cow
 
