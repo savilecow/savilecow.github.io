@@ -1,6 +1,5 @@
 # --- Required options --- #
 
-remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
@@ -105,7 +104,7 @@ keywords: "savile, cow, savile cow, merch, nft"
 navbar-col: "#FFFFFF"
 navbar-text-col: "#000000"
 navbar-border-col: "#393a3b"
-page-col: "#18191a"
+page-col: "#FFFFFF"
 text-col: "#000000"
 link-col: "#139ee0"
 hover-col: "#28a9e6"
